@@ -1,3 +1,5 @@
+#include <stdexcept>
+
 #include "utils.h"
 
 namespace String {
